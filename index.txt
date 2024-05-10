@@ -28,4 +28,8 @@ review card
 >>>>>>> 4514da2 (add review-card and feature no 10)
 =======
 foot
+<<<<<<< HEAD
 >>>>>>> e6305aa (merge main to feat)
+=======
+footer
+>>>>>>> 5be0353 (merge main to feat)
