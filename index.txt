@@ -7,3 +7,4 @@ accordion
 testimonials
 data card
 product card
+review card
