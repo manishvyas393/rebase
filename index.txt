@@ -1,6 +1,7 @@
 navbar
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 heading
 menu
 distance
@@ -33,3 +34,6 @@ foot
 =======
 footer
 >>>>>>> 5be0353 (merge main to feat)
+=======
+heading
+>>>>>>> a6f0235 (add heading and fetaure no 2)
