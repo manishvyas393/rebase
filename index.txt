@@ -1,5 +1,6 @@
 navbar
 <<<<<<< HEAD
+<<<<<<< HEAD
 heading
 menu
 distance
@@ -7,3 +8,7 @@ user-card
 =======
 accordion
 >>>>>>> fb9b79c (add accordion and fetaure no 4)
+=======
+accordion
+testimonials
+>>>>>>> 4f702fb (add testimonials and fetaure no 5)
