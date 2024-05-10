@@ -20,4 +20,8 @@ data card
 >>>>>>> 04de6e1 (add data card and fetaure no 6)
 =======
 product card
+<<<<<<< HEAD
 >>>>>>> 939dede (add product-card and feature no 9)
+=======
+review card
+>>>>>>> 4514da2 (add review-card and feature no 10)
