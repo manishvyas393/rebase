@@ -3,3 +3,6 @@ heading
 menu
 distance
 user-card
+accordion
+testimonials
+data card
