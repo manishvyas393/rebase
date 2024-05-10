@@ -24,4 +24,8 @@ product card
 >>>>>>> 939dede (add product-card and feature no 9)
 =======
 review card
+<<<<<<< HEAD
 >>>>>>> 4514da2 (add review-card and feature no 10)
+=======
+foot
+>>>>>>> e6305aa (merge main to feat)
