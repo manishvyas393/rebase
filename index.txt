@@ -8,3 +8,4 @@ testimonials
 data card
 product card
 review card
+foot
