@@ -7,8 +7,13 @@ distance
 user-card
 =======
 accordion
+<<<<<<< HEAD
 >>>>>>> fb9b79c (add accordion and fetaure no 4)
 =======
 accordion
 testimonials
 >>>>>>> 4f702fb (add testimonials and fetaure no 5)
+=======
+testimonials
+data card
+>>>>>>> 04de6e1 (add data card and fetaure no 6)
