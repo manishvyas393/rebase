@@ -16,4 +16,8 @@ testimonials
 =======
 testimonials
 data card
+<<<<<<< HEAD
 >>>>>>> 04de6e1 (add data card and fetaure no 6)
+=======
+product card
+>>>>>>> 939dede (add product-card and feature no 9)
