@@ -6,3 +6,4 @@ user-card
 accordion
 testimonials
 data card
+product card
