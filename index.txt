@@ -2,6 +2,7 @@ navbar
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 heading
 menu
 distance
@@ -37,3 +38,7 @@ footer
 =======
 heading
 >>>>>>> a6f0235 (add heading and fetaure no 2)
+=======
+heading
+menu
+>>>>>>> 8e425c7 (add menu and fetaure no 3)
